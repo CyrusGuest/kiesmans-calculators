@@ -1,0 +1,22 @@
+{
+  "name": "coach-kiesmans-calculators",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.11",
+    "react-dom": "^18.0.11",
+    "react-router-dom": "^6.2.2",
+    "react-scroll-motion": "^0.3.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.19",
+    "vite": "^2.7.2"
+  }
+}
